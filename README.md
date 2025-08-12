@@ -114,11 +114,6 @@ Home » Category » Post
 2. Copy the PHP code into your active theme's `functions.php` file
 3. Save and clear any caching
 
-### Option 2: Plugin Method
-1. Download the plugin file from the releases section
-2. Upload via WordPress admin → Plugins → Add New → Upload
-3. Activate the plugin
-4. Clear cache if needed
 
 ---
 
